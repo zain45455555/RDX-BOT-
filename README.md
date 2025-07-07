@@ -6,7 +6,7 @@
 
 - Facebook Messenger chatbot functionality
 - Facebook login through `appstate.json` (cookies)
-- 50+ built-in commands
+- 250+ built-in commands
 - Easily customizable structure for developers
 
 ## 🧰 Requirements
