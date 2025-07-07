@@ -2,8 +2,6 @@
 
 **Priyansh-Bot-V2** is a Facebook Messenger chatbot that runs with the help of your **Facebook account's appstate (cookies)**. This bot listens to your messages in Messenger and handles multiple useful commands.
 
-,
-
 ##
 
 - Facebook Messenger chatbot functionality
@@ -11,14 +9,10 @@
 - 50+ built-in commands
 - Easily customizable structure for developers
 
-,
-
 ## 🧰 Requirements
 
 - **Node.js version 18 or above (18+)**
 - Facebook `appstate.json` file (login cookie JSON)
-
-,
 
 ## ⚙️ Installation
 
@@ -65,6 +59,17 @@ node index.js
 ```
 - The bot automatically tracks group and user data (if the database is configured).
 
+---
+
+## Fca type 
+- You can use any one
+
+```
+fca-priyansh
+```
+```
+priyanshu-fca
+```
 ---
 
 ## 🤝 Contributing
